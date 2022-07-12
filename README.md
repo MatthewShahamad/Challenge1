@@ -1,2 +1,7 @@
-# Challenge1
-This project houses all files related to Challenge 1
+# Module 1 Challenge Read Me
+This project houses all files related to Module 1 Challenge
+
+This project is to test my ability to refactor existing code for this challenge, assuming a marketing agency has hired optimize a webpage to make it more accessible.
+
+A link to the site can be found here (below)
+https://matthewshahamad.github.io/Module-1-Challenge/#search-engine-optimization
